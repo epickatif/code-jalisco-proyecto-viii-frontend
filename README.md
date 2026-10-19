@@ -1,10 +1,10 @@
-# CODE Jalisco - Sprint 1
+﻿# CODE Jalisco - Sprint 1
 
 Sitio web institucional para el Centro de Desarrollo Deportivo de Jalisco.
 
 ## Sprint 1: Configuración inicial y componentes base
 
-Este es el resultado del primer sprint (17/02/2026 - 02/03/2026) del proyecto.
+Este es el resultado del primer sprint (14/09/2026 - 27/09/2026) del proyecto.
 
 ### Funcionalidades implementadas
 
@@ -70,5 +70,6 @@ code-jalisco-sprint1/
 
 **Equipo de desarrollo:** CODE Jalisco  
 **Sprint:** 1 de 4  
-**Fecha:** Febrero 2026
+**Fecha:** Septiembre 2026
+
 
